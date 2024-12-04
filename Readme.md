@@ -3,6 +3,7 @@
 This project is a hands-on guide for learning quantitative trading using Python. It provides tools and scripts for data analysis, strategy development, backtesting, and visualization.
 
 ## Project Structure
+```
 quant_trading_python/
 │
 ├── data/                # Store raw and processed datasets
@@ -17,6 +18,7 @@ quant_trading_python/
 ├── requirements.txt     # Dependency file
 ├── README.md            # Project documentation
 └── .gitignore           # Git ignore file
+```
 
 ## Features
 - Fetch historical stock data
