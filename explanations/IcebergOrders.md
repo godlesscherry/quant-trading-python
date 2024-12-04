@@ -19,9 +19,9 @@ The sample data includes:
 ### **Bid-Ask Imbalance**
 **Imbalance** is a measure of the difference between the bid and ask sizes relative to the total volume. It is calculated as:
 **Imbalance Formula**:
-\[
-\text{imbalance} = \frac{\text{bid size} - \text{ask size}}{\text{bid size} + \text{ask size}}
-\]
+```
+imbalance = (bid size - ask size) / (bid size + ask size)
+```
 
 
 ---
